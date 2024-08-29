@@ -1,0 +1,29 @@
+Chosen Dataset:  “Deaths: Germany, years, causes of death, sex, age groups” (code 23211 – 0004) from the “Causes of death statistics”
+
+Source: Genesis Destatis online resource
+
+https://www-genesis.destatis.de/genesis//online?operation=table&code=23211-0004&bypass=true&levelindex=1&levelid=1714580742716#abreadcrumb
+
+Motivation for Choosing this Dataset: 
+
+This dataset is interesting to me, especially as an international student, as it sheds light on the major causes of death in Germany. Understanding these causes and the most vulnerable age groups is crucial for implementing preventive measures to reduce mortality rates. By leveraging programming to analyze large datasets, we can gain insights that help policymakers develop targeted interventions, such as public health initiatives and social welfare programs, based on trends and specific population groups.
+
+Description of Dataset:
+
+This dataset provides detailed information on deaths in Germany for the yearS 2013-2022, categorized by various factors such as causes of death, sex, and age groups. The causes of death statistics are further broken down into specific categories, including infectious diseases, neoplasms, diseases of the circulatory system, respiratory diseases, and many others. Additionally, it includes data on external causes of morbidity and mortality such as accidents and intentional self-harm. The dataset offers insights into mortality patterns within different demographic segments, providing valuable information for public health research and policymaking.
+
+Questions that can be answered with this data:
+
+1. Which were the top 5 leading causes of death in each year?
+2. What was the leading cause of death in each year for males and females?
+3. How is the total number of deaths increased or decreased throughout the decade?
+4. Which age groups were the most vulnerable in each year?
+5. What were the total number of deaths by gender in the last year 2022?
+
+
+
+
+
+
+
+ 

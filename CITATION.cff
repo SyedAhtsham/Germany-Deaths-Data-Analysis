@@ -1,0 +1,12 @@
+cff-version: 1.0.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Hassan"
+  given-names: "Syed Ahtsham Ul"
+  orcid: ""
+
+title: "Analysis of Germany's Deaths Statistics using Python"
+version: 0.1
+doi: 
+date-released: 2024-05-12
+url: "https://gitup.uni-potsdam.de/hassan4/de-deaths-eda"
